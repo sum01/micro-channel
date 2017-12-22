@@ -9,8 +9,8 @@
 	"https://raw.githubusercontent.com/pbsds/micro-railscast-theme/master/repo.json",
 
 	// Bluemood theme
-	"https://raw.githubusercontent.com/lmintmate/blue-mood-micro/master/repo.json",
+	"https://raw.githubusercontent.com/lmintmate/blue-mood-micro/master/repo.json"
 
 	// Textlint
-	"https://raw.githubusercontent.com/hidaruma/micro-textlint-plugin/master/repo.json"
+	//"https://raw.githubusercontent.com/hidaruma/micro-textlint-plugin/master/repo.json"
 ]
