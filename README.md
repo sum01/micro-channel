@@ -29,5 +29,4 @@ Note that I won't personally test each and every plugin, and make no promises ab
 | [ctags](https://github.com/codezapper/micro-ctags-plugin)         | Adds (rudimentary) support for reading/parsing a ctags file |
 | [railscast-theme](https://github.com/pbsds/micro-railscast-theme) | A colorscheme based on the RailsCast TextMate theme         |
 | [bluemood-tc](https://github.com/lmintmate/blue-mood-micro)       | A port of emacs Blue Mood theme for the micro text editor   |
-
-<!-- | [textlint](https://github.com/hidaruma/micro-textlint-plugin)     | Textlint plugin for micro-editor                            | -->
+| [textlint](https://github.com/hidaruma/micro-textlint-plugin)     | Textlint plugin for micro-editor                            |
